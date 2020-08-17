@@ -14,6 +14,8 @@ Implement a One-to-One Video Conferencing App.
 
 * Implement multi-user support , where multiple users should be able to join on the same link.
 * Implement the Screen sharing feature
+* Please state what strategy you would use to make it work across sister NAT configurations at home routers and enterprise network.
+* Please state what security concerns you would try to mitigate.
 
 # Technology Stack
 

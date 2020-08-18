@@ -14,13 +14,13 @@ Implement a One-to-One Video Conferencing App.
 
 * Implement multi-user support , where multiple users should be able to join on the same link.
 * Implement the Screen sharing feature
-* Please state what strategy you would use to make it work across sister NAT configurations at home routers and enterprise network.
+* Please state what strategy you would use to make it work across wierd NAT configurations at home routers and enterprise network.
 * Please state what security concerns you would try to mitigate.
 
 # Technology Stack
 
 * We prefer that the back-end and signalling server should be implemented on **Python** based libs.
-* UI you can choose and library like (JQuery, Angular, ReactJS etc..).
+* UI you can choose library like (JQuery, Angular, ReactJS etc..).
 
 # Deliverables
 
